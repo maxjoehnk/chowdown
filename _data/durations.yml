@@ -1,0 +1,15 @@
+cookTime:
+  name: Kochzeit
+  property: cookTime
+bakeTime:
+  name: Backzeit
+  property: cookTime
+prepTime:
+  name: Arbeitszeit
+  property: prepTime
+restTime:
+  name: Ruhezeit
+  property: prepTime
+totalTime:
+  name: Gesamtzeit
+  property: totalTime
