@@ -1,13 +1,9 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
-language: "en"
+title: Recipes
+baseurl: "https://recipes.maxjoehnk.me"
+language: "de"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
 
 # Build settings
 markdown: kramdown
@@ -33,6 +29,7 @@ translation:
     search: "Search"
     blog: "Blog"
     subscribe: "Subscribe"
+    source: "Source"
   de:
     components: "Komponenten"
     ingredients: "Zutaten"
@@ -43,3 +40,4 @@ translation:
     search: "Suche"
     blog: "Blog"
     subscribe: "Abonnieren"
+    source: "Quelle"
