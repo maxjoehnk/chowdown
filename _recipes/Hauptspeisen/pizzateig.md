@@ -3,6 +3,8 @@ layout: recipe
 title: Pizzateig
 vegan: true
 
+image: pizzateig.jpg
+
 tags:
 - Vegan
 - Hauptspeise
@@ -72,6 +74,8 @@ Wenn der Teig etwas flacher geworden ist, können wir ihn am Rand hochheben und 
 Außerdem könnt ihr den Teig von der einen Hand in die andere Werfen oder zwei Fäuste formen, den Teig darauf legen und ihn somit weiter ausdehnen."
 
 servings: 6 Pizzen à 270g
+
+source: http://www.perfekte-pizza.de/perfekter-pizzateig/
 ---
 
 Das Problem bei den meisten selbstgebackenen Pizzen ist dass der Teig einfach nicht so schmeckt wie beim Italiener. Meistens ist der Teig zu trocken, die Kruste zu hart, der Teig zu schwer und alles schmeckt nur nach Hefe. Viele Hausfrauen und -männer wenden ihre jahrzehnte lange Backerfahrung auf das Pizzabacken an, aber das geht so nicht. Denn Pizzabacken ist anders. Pizzabacken ist eine Wissenschaft für sich.
