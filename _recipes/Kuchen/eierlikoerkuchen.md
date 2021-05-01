@@ -2,6 +2,7 @@
 layout: recipe
 title: "Eierlikörkuchen"
 vegan: false
+dish: Kuchen
 
 tags:
 - Kuchen

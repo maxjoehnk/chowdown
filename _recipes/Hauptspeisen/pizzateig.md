@@ -2,6 +2,7 @@
 layout: recipe
 title: Pizzateig
 vegan: true
+dish: Hauptspeisen
 
 image: pizzateig.jpg
 

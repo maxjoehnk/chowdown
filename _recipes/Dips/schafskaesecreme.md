@@ -2,6 +2,7 @@
 layout: recipe
 title: "Schafskäsecreme"
 vegan: true
+dish: Dips
 
 tags:
 - Vegan

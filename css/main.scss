@@ -51,3 +51,38 @@ a:hover .image{opacity:0.2;}
 .border-1 { border-width: 1px; }
 .border-1:active { border-width: 1px; }
 .capitalize { text-transform: capitalize; }
+
+html {
+    background: #222;
+    color: rgba(white, 0.8);
+}
+
+.home {
+    padding: 0 16px;
+}
+
+.recipe-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.recipe {
+    display: block;
+    height: 225px;
+    width: 450px;
+    margin: 4px;
+
+    .recipe-image {
+        border-radius: 4px;
+        height: 100%;
+        width: 100%;
+        background: rgba(white, 0.2);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .recipe-title {
+        background: rgba(black, 0.2);
+    }
+}

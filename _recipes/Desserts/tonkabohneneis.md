@@ -2,12 +2,12 @@
 layout: recipe
 title: "Tonkabohneneis"
 vegan: false
+dish: Desserts
 
 tags:
 - Dessert
 
-categories:
-- Desserts
+categories: Desserts
 
 ingredients:
 - 3 Tonkabohnen

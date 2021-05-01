@@ -2,6 +2,7 @@
 layout: recipe
 title: Pizza-Tomatensoße
 vegan: true
+dish: Soßen
 
 tags:
 - Vegan

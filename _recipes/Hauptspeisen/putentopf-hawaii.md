@@ -2,6 +2,7 @@
 layout: recipe
 title: Putentopf Hawaii
 vegan: false
+dish: Hauptspeisen
 
 tags:
 - Hauptspeise

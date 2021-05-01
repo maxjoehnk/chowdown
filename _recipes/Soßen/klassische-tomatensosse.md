@@ -2,6 +2,7 @@
 layout: recipe
 title: Klassische Tomatensoße
 vegan: true
+dish: Soßen
 
 tags:
 - Vegan

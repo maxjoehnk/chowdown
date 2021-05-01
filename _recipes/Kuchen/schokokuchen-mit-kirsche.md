@@ -2,6 +2,7 @@
 layout: recipe
 title: Schokokuchen mit Kirsche
 vegan: false
+dish: Kuchen
 
 image: schokokuchen-mit-kirsche.jpg
 

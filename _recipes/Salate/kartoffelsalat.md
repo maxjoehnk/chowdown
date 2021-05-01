@@ -2,6 +2,7 @@
 layout: recipe
 title: Kartoffelsalat
 vegan: false
+dish: Salate
 
 tags:
 - Salat

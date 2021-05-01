@@ -2,6 +2,7 @@
 layout: recipe
 title: "Zimtsterne"
 vegan: true
+dish: Kekse
 
 image: zimtsterne.jpg
 

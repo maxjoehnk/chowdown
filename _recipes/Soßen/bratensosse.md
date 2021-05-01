@@ -2,6 +2,7 @@
 layout: recipe
 title: Bratensoße
 vegan: true
+dish: Soßen
 
 image: bratensoße.jpg
 

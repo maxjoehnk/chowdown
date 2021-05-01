@@ -2,6 +2,7 @@
 layout: recipe
 title: Bärlauchpesto
 vegan: true
+dish: Dips
 
 tags:
 - Vegan

@@ -2,6 +2,7 @@
 layout: recipe
 title: "Speculoos"
 vegan: true
+dish: Kekse
 
 image: speculoos.jpg
 

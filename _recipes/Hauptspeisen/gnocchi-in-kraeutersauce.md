@@ -2,6 +2,7 @@
 layout: recipe
 title: Gnocci in Kräutersauce
 vegan: true
+dish: Hauptspeisen
 
 tags:
 - Vegan

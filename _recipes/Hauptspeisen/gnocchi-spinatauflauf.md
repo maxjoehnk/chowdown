@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Gnocchi-Spinatauflauf
+dish: Hauptspeisen
 
 tags:
 - Hauptspeise

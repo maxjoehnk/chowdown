@@ -2,6 +2,7 @@
 layout: recipe
 title: Hähnchengulasch
 vegan: false
+dish: Hauptspeisen
 
 tags:
 - Hauptspeise

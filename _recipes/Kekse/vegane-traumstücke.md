@@ -2,6 +2,7 @@
 layout: recipe
 title: "Vegane Traumstücke"
 vegan: true
+dish: Kekse
 
 tags:
 - Vegan

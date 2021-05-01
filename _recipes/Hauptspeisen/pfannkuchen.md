@@ -2,6 +2,7 @@
 layout: recipe
 title: Pfannkuchen
 vegan: true
+dish: Hauptspeisen
 
 tags:
 - Vegan

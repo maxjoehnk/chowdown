@@ -2,12 +2,12 @@
 layout: recipe
 title: "Käsekuchen"
 vegan: false
+dish: Kuchen
 
 tags:
 - Kuchen
 
-categories:
-- Kuchen
+categories: Kuchen
 
 ingredients:
 - 24er Springform

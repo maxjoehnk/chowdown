@@ -2,6 +2,7 @@
 layout: recipe
 title: Tahini Dressing
 vegan: true
+dish: Soßen
 
 tags:
 - Vegan

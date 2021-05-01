@@ -2,6 +2,7 @@
 layout: recipe
 title: Hackbraten
 vegan: false
+dish: Hauptspeisen
 
 tags:
 - Hauptspeise

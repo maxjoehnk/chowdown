@@ -2,12 +2,12 @@
 layout: recipe
 title: "Tzaziki"
 vegan: false
+dish: Dips
 
 tags:
 - Dip
 
-categories:
-- Dips
+categories: Dips
 
 ingredients:
 - 1kg Magerquark

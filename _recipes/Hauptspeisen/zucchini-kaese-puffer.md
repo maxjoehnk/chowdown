@@ -2,8 +2,11 @@
 layout: recipe
 title: Zucchini-Käse-Puffer
 vegan: false
+dish: Hauptspeisen
 
 image: zucchini-kaese-puffer.jpg
+
+categories: Hauptspeisen
 
 ingredients:
 - 1 Zucchini

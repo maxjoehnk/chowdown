@@ -2,6 +2,7 @@
 layout: recipe
 title: Rocher Torte
 vegan: false
+dish: Kuchen
 
 tags:
 - Kuchen

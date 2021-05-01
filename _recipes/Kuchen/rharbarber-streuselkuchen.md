@@ -2,6 +2,7 @@
 layout: recipe
 title: "Rharbarber Streuselkuchen"
 vegan: true
+dish: Kuchen
 
 image: rharbarber-streuselkuchen.jpg
 

@@ -2,6 +2,7 @@
 layout: recipe
 title: Möhrenspaghetti in Bärlauchpesto
 vegan: false
+dish: Hauptspeisen
 
 tags:
 - Hauptspeise

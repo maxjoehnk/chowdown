@@ -2,6 +2,7 @@
 layout: recipe
 title: Schichtsalat
 vegan: false
+dish: Salate
 
 tags:
 - Salat

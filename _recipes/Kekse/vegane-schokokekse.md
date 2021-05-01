@@ -2,6 +2,7 @@
 layout: recipe
 title: "Vegane Schokokekse"
 vegan: true
+dish: Kekse
 
 tags:
 - Vegan

@@ -2,6 +2,7 @@
 layout: recipe
 title: "Blätterteig-Tomaten-Quadrate"
 vegan: true
+dish: Fingerfood
 
 tags:
 - Vegan
