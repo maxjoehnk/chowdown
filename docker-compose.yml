@@ -5,12 +5,9 @@ services:
     image: jekyll/jekyll
     restart: always
     container_name: chowdown
-    command: jekyll serve --force_polling
+    command: jekyll serve --force_polling --livereload --livereload-port 35729
     ports:
       - "80:4000"
+      - "35729:35729"
     volumes:
       - .:/srv/jekyll
-      - /opt/docker/chowdown/data/components:/srv/jekyll/_components
-      - /opt/docker/chowdown/data/images:/srv/jekyll/_images
-      - /opt/docker/chowdown/data/posts:/srv/jekyll/_posts
-      - /opt/docker/chowdown/data/recipes:/srv/jekyll/_recipes
