@@ -1,9 +1,8 @@
 <!-- recipe metadata -->
-<div class="flex flex-wrap">
 {% if page.servings != nil %}
-  <div class="rounded center border border-1 border-gray sm-col sm-col-2 lg-col-2 mr1 mb1">
-    <h5 class="bg-gray white m0 p1 capitalize">Portionen</h5>
-    <p itemprop="recipeYield">{{ page.servings }}</p>
+  <div class="recipe-metadata">
+    <h5 class="metadata-header">Portionen</h5>
+    <p class="metadata-value" itemprop="recipeYield">{{ page.servings }}</p>
   </div>
 {% endif %}
 {% assign durations = page.durations %}
@@ -12,10 +11,9 @@
   {% assign itemprop = site.data.durations[field].property %}
   {% assign name = site.data.durations[field].name %}
   {% assign value = duration.last %}
-  <div class="rounded center border border-1 border-gray sm-col sm-col-2 lg-col-2 mr1 mb1">
-    <h5 class="bg-gray white m0 p1 capitalize">{{ name }}</h5>
-    <p itemprop="{{ itemprop }}">{{ value }}</p>
+  <div class="recipe-metadata">
+    <h5 class="metadata-header">{{ name }}</h5>
+    <p class="metadata-value" itemprop="{{ itemprop }}">{{ value }}</p>
   </div>
   {% endfor %}
-</div>
 <!-- end recipe metadata -->

@@ -1,22 +1,47 @@
 ---
 layout: default
 ---
-
-<div class="home"> 
-  {% assign dishes = site.recipes | group_by:"dish" %}
-  {% for dish in dishes %}
-    <h2>{{ dish.name }}</h2>
-    <div class="recipes xs-px1 xs-mt2">
-        <div class="recipe-list">
-      {% for post in dish.items %}
-            <a class="relative recipe" href="{{ post.url | prepend: site.baseurl }}">
-              <div class="recipe-image" style="background-image: url({{site.baseurl}}/images/{{ post.image | pop }})" ></div>
-              <div class="recipe-title absolute bottom-0 left-0 right-0">
-              <h3 class="title p2 m0 bold white">{{ post.title }}</h3>
-            </div>
-            </a>
-      {% endfor %}
-      </div>
+<div class="home">
+    <div class="home-head">
+        <h1 class="title">{{ site.translation[site.language].title }}</h1>
+        <input class="search-box" type="search" id="search-input" placeholder="{{ site.translation[site.language].search_placeholder }}" >
     </div>
-  {% endfor %}
+    <div id="search-results" class="search-results">
+    </div>
+    <div class="recipes" id="recipe-list">
+        {% assign dishes = site.recipes | group_by:"dish" %}
+        {% for dish in dishes %}
+            <h2>{{ dish.name }}</h2>
+            <div class="recipe-list">
+                {% for post in dish.items %}
+                <a class="recipe" href="{{ post.url | prepend: site.baseurl }}">
+                    <div class="recipe-image"
+                         {% if post.image %} style="background-image: url({{site.baseurl}}/images/{{ post.image | pop }}); filter: none" {% endif %}></div>
+                    <div class="recipe-title">
+                        <h3 class="recipe-name">{{ post.title }}</h3>
+                    </div>
+                </a>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
 </div>
+
+<!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/plugins/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('search-results'),
+        json: '{{site.baseurl}}/search.json',
+        searchResultTemplate: `<a class="recipe" href="{url}">
+                    <div class="recipe-image"
+                         style="background-image: url({image}); filter: none"></div>
+                    <div class="recipe-title">
+                        <h3 class="recipe-name">{title}</h3>
+                    </div>
+                </a>`
+    })
+</script>

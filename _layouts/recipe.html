@@ -1,5 +1,7 @@
 ---
 layout: default
+styles:
+- /css/bass.css
 ---
 <div class="container" itemscope itemtype="http://schema.org/Recipe">
 <article class="post-content px2">
@@ -13,10 +15,8 @@ layout: default
     <div class="sm-col-8 mx-auto" itemprop="description">{{page.content}}</div>
   </div>
 
-  <div class="mt3 clearfix">
-    <div class="sm-col sm-col-12 lg-col-12">
-      {% include recipe-metadata.html %}
-    </div>
+  <div class="recipe-metadata-list">
+    {% include recipe-metadata.html %}
   </div>
 
   <div class="mt3 clearfix">

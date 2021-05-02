@@ -20,6 +20,8 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 translation:
   en:
+    title: "Recipes"
+    search_placeholder: "search titles or ingredients..."
     components: "Components"
     ingredients: "Ingredients"
     directions: "Directions"
@@ -31,6 +33,8 @@ translation:
     subscribe: "Subscribe"
     source: "Source"
   de:
+    title: "Rezepte"
+    search_placeholder: "Suchen..."
     components: "Komponenten"
     ingredients: "Zutaten"
     directions: "Zubereitung"
