@@ -2,7 +2,7 @@
 layout: recipe
 title: "Zimtsterne"
 vegan: true
-dish: Kekse
+
 
 image: zimtsterne.jpg
 
@@ -10,7 +10,7 @@ tags:
 - Vegan
 - Kekse
 
-categories: Kekse
+category: Kekse
 
 ingredients:
 # Teig

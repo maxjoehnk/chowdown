@@ -2,7 +2,7 @@
 layout: recipe
 title: "Rharbarber Streuselkuchen"
 vegan: true
-dish: Kuchen
+
 
 image: rharbarber-streuselkuchen.jpg
 
@@ -10,7 +10,7 @@ tags:
 - Vegan
 - Kuchen
 
-categories: Kuchen
+category: Kuchen
 
 ingredients:
 # Teig

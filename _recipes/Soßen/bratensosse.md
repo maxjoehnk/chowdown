@@ -2,7 +2,7 @@
 layout: recipe
 title: Bratensoße
 vegan: true
-dish: Soßen
+
 
 image: bratensoße.jpg
 
@@ -10,7 +10,7 @@ tags:
 - Vegan
 - Soße
 
-categories: Soßen
+category: Soßen
 
 ingredients:
 - 250g Zwiebeln (ca. 2)

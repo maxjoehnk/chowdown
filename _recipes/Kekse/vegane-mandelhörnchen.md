@@ -2,7 +2,7 @@
 layout: recipe
 title: "Einfache Mandelhörnchen (Vegan + Glutenfrei)"
 vegan: true
-dish: Kekse
+
 
 image: vegane-mandelhörnchen.webp
 
@@ -11,7 +11,7 @@ tags:
 - Kekse
 - Kleinigkeit
 
-categories: Kekse
+category: Kekse
 
 ingredients:
 # Hörnchen

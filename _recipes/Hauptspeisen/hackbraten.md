@@ -2,12 +2,12 @@
 layout: recipe
 title: Hackbraten
 vegan: false
-dish: Hauptspeisen
+
 
 tags:
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - 1kg Hackfleisch

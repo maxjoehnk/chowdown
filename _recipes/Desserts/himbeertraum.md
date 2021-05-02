@@ -2,12 +2,12 @@
 layout: recipe
 title: "Himbeertraum"
 vegan: false
-dish: Desserts
+
 
 tags:
 - Dessert
 
-categories: Desserts
+category: Desserts
 
 ingredients:
 - 200g Baiser

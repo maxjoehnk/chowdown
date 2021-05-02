@@ -2,13 +2,13 @@
 layout: recipe
 title: Klassische Tomatensoße
 vegan: true
-dish: Soßen
+
 
 tags:
 - Vegan
 - Soße
 
-categories: Soßen
+category: Soßen
 
 ingredients:
 - 2 Zwiebeln

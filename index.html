@@ -9,7 +9,7 @@ layout: default
     <div id="search-results" class="search-results">
     </div>
     <div class="recipes" id="recipe-list">
-        {% assign dishes = site.recipes | group_by:"dish" %}
+        {% assign dishes = site.recipes | group_by:"category" %}
         {% for dish in dishes %}
             <h2>{{ dish.name }}</h2>
             <div class="recipe-list">

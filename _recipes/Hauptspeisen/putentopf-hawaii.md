@@ -2,12 +2,12 @@
 layout: recipe
 title: Putentopf Hawaii
 vegan: false
-dish: Hauptspeisen
+
 
 tags:
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - 1 Pfund Putenfleisch

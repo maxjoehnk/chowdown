@@ -2,12 +2,12 @@
 layout: recipe
 title: Hähnchengulasch
 vegan: false
-dish: Hauptspeisen
+
 
 tags:
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - 800g Bandnudeln

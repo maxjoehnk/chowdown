@@ -2,12 +2,12 @@
 layout: recipe
 title: Rotkäppchen-Torte mit Kirschen
 vegan: false
-dish: Kuchen
+
 
 tags:
 - Kuchen
 
-categories: Kuchen
+category: Kuchen
 
 ingredients:
 # Rührteig

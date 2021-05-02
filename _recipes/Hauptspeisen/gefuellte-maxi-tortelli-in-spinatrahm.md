@@ -2,11 +2,11 @@
 layout: recipe
 title: Gefüllte Maxi-Tortelli in Spinatrahm
 vegan: false
-dish: Hauptspeisen
+
 
 image: gefuellte-maxi-tortelli-in-spinatrahm.jpg
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - 400g Maxi-Tortelli mit Ricotta-Spinat-Füllung

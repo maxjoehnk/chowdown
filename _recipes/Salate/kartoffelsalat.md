@@ -2,12 +2,12 @@
 layout: recipe
 title: Kartoffelsalat
 vegan: false
-dish: Salate
+
 
 tags:
 - Salat
 
-categories: Salate
+category: Salate
 
 ingredients:
 - 5 Pfund Kartoffeln

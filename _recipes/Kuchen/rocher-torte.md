@@ -2,12 +2,12 @@
 layout: recipe
 title: Rocher Torte
 vegan: false
-dish: Kuchen
+
 
 tags:
 - Kuchen
 
-categories: Kuchen
+category: Kuchen
 
 ingredients:
 - 150g Butter oder Margarine

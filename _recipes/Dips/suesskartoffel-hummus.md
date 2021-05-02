@@ -2,7 +2,7 @@
 layout: recipe
 title: "Süßkartoffel Hummus"
 vegan: true
-dish: Dips
+
 
 image: suesskartoffel-hummus.jpg
 
@@ -10,7 +10,7 @@ tags:
 - Vegan
 - Dip
 
-categories: Dips
+category: Dips
 
 ingredients:
 - 1,5 Tassen Kichererbsen

@@ -2,9 +2,9 @@
 layout: recipe
 title: Sahneschnitzel (Jonathan)
 vegan: false
-dish: Hauptspeisen
 
-categories: Hauptspeisen
+
+category: Hauptspeisen
 
 ingredients:
 - 2 Schweineschnitzel

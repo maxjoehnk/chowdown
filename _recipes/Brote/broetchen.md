@@ -2,14 +2,14 @@
 layout: recipe
 title: "Brötchen"
 vegan: true
-dish: Brote
+
 
 tags:
 - Vegan
 - Brötchen
 - Brot
 
-categories: Brote
+category: Brote
 
 ingredients:
 - 500g Mehl

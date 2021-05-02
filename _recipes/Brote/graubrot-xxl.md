@@ -3,13 +3,13 @@ layout: recipe
 title: "Graubrot XXL"
 vegan: true
 image: graubrot-xxl.jpg
-dish: Brote
+
 
 tags:
 - Vegan
 - Brot
 
-categories: Brote
+category: Brote
 
 ingredients:
 - 650g Mehl (Weizenmehl Type 405)

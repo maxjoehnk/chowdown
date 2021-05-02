@@ -2,13 +2,13 @@
 layout: recipe
 title: "Schafskäsecreme"
 vegan: true
-dish: Dips
+
 
 tags:
 - Vegan
 - Dip
 
-categories: Dips
+category: Dips
 
 ingredients:
 - 200g Schafskäse

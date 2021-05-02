@@ -2,13 +2,13 @@
 layout: recipe
 title: Tahini Dressing
 vegan: true
-dish: Soßen
+
 
 tags:
 - Vegan
 - Soße
 
-categories: Soßen
+category: Soßen
 
 ingredients:
 - 1 Knoblauchzehe

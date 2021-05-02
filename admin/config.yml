@@ -1,0 +1,110 @@
+backend:
+  name: github
+  repo: maxjoehnk/chowdown
+  branch: gh-pages
+
+media_folder: "/images"
+site_url: https://recipes.maxjoehnk.me
+
+collections:
+  - name: "components"
+    label: "Components"
+    label_singular: "Component"
+    folder: "_components"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: recipe
+      - label: Title
+        name: title
+        widget: string
+  - name: "recipes"
+    label: "Recipes"
+    label_singular: "Recipe"
+    folder: "_recipes"
+    create: true
+    view_groups:
+      - label: Category
+        field: category
+    slug: "{{slug}}"
+    path: "{{category}}/{{slug}}"
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: recipe
+      - label: Title
+        name: title
+        widget: string
+      - label: Vegan
+        name: vegan
+        widget: boolean
+      - label: Image
+        name: image
+        widget: image
+        allow_multiple: false
+        media_folder: /images
+      - label: Category
+        name: category
+        widget: string
+      - label: Tags
+        name: tags
+        widget: list
+      - label: Servings
+        name: servings
+        widget: number
+      - label: Dauer
+        name: durations
+        widget: object
+        fields:
+          - label: Arbeitszeit
+            name: prepTime
+            widget: string
+          - label: Backzeit
+            name: bakeTime
+            widget: string
+          - label: Kochzeit
+            name: cookTime
+            widget: string
+          - label: Ruhezeit
+            name: restTime
+            widget: string
+          - label: Gesamtzeit
+            name: totalTime
+            widget: string
+      - label: Ingredients
+        name: ingredients
+        widget: list
+        summary: "{{fields.ingredient}}"
+        minimize_collapsed: true
+        field:
+          label: Ingredient
+          name: ingredient
+          widget: string
+      - label: Directions
+        name: directions
+        summary: "{{fields.step}}"
+        widget: list
+        minimize_collapsed: true
+        field:
+          label: ""
+          name: step
+          widget: text
+      - label: Components
+        name: components
+        widget: list
+        minimize_collapsed: true
+        field:
+          label: Component
+          name: component
+          widget: relation
+          collection: components
+          value_field: title
+          search_fields: ["title"]
+      - label: Source
+        name: source
+        widget: string
+

@@ -3,13 +3,13 @@ cookTime:
   property: cookTime
 bakeTime:
   name: Backzeit
-  property: cookTime
+  property: bakeTime
 prepTime:
   name: Arbeitszeit
   property: prepTime
 restTime:
   name: Ruhezeit
-  property: prepTime
+  property: restTime
 totalTime:
   name: Gesamtzeit
   property: totalTime

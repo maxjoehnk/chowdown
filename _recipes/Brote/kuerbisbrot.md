@@ -2,7 +2,7 @@
 layout: recipe
 title: "Kürbisbrot"
 vegan: true
-dish: Brote
+
 
 image: kuerbisbrot.jpg
 
@@ -10,7 +10,7 @@ tags:
 - Vegan
 - Brot
 
-categories: Brote
+category: Brote
 
 ingredients:
 - 325g Kürbisfleisch

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Vegane Chocolate Chip Cookies"
 vegan: true
-dish: Kekse
+
 
 image: cookies.jpg
 
@@ -10,7 +10,7 @@ tags:
 - Vegan
 - Kekse
 
-categories: Kekse
+category: Kekse
 
 ingredients:
 - 350g Mehl

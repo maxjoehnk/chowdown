@@ -3,12 +3,12 @@ layout: recipe
 title: Kroketten
 vegan: false
 image: kroketten.jpg
-dish: Beilagen
+
 
 tags:
 - Beilage
 
-categories: Beilagen
+category: Beilagen
 
 ingredients:
 - 500g Kartoffeln

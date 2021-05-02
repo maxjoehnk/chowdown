@@ -3,13 +3,12 @@ layout: recipe
 title: "Kartoffelklöße"
 vegan: true
 image: kartoffelkloesse.jpg
-dish: Beilagen
 
 tags:
 - Vegan
 - Beilage
 
-categories: Beilagen
+category: Beilagen
 
 ingredients:
 - 800g Kartoffeln

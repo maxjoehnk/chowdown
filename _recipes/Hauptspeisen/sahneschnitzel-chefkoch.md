@@ -2,12 +2,12 @@
 layout: recipe
 title: Sahneschnitzel (Chefkoch Variante)
 vegan: false
-dish: Hauptspeisen
+
 
 tags:
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - 2 Schweineschnitzel

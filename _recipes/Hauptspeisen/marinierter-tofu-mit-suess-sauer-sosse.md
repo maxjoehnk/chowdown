@@ -2,7 +2,6 @@
 layout: recipe
 title: Marinierter Tofu mit Süß-Sauer-Soße
 vegan: true
-dish: Hauptspeisen
 
 image: marinierter-tofu-mit-suess-sauer-sosse.jpg
 
@@ -10,7 +9,7 @@ tags:
 - Vegan
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 components:
 - Knuspriger Tofu

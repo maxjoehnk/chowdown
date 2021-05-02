@@ -2,14 +2,14 @@
 layout: recipe
 title: Pfannkuchen
 vegan: true
-dish: Hauptspeisen
+
 
 tags:
 - Vegan
 - Hauptspeise
 - Süß
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - 2 EL Zucker

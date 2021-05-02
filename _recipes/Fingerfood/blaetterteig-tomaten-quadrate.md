@@ -2,13 +2,13 @@
 layout: recipe
 title: "Blätterteig-Tomaten-Quadrate"
 vegan: true
-dish: Fingerfood
+
 
 tags:
 - Vegan
 - Fingerfood
 
-categories: Fingerfood
+category: Fingerfood
 
 ingredients:
 - 1 Bätterteig (275g, Kühlregal) rechteckig

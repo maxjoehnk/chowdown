@@ -2,7 +2,6 @@
 layout: recipe
 title: Pizzateig
 vegan: true
-dish: Hauptspeisen
 
 image: pizzateig.jpg
 
@@ -10,7 +9,7 @@ tags:
 - Vegan
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - 1kg Mehl Standard 405er (siehe unten)

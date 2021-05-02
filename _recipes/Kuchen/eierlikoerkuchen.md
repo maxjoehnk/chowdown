@@ -2,12 +2,12 @@
 layout: recipe
 title: "Eierlikörkuchen"
 vegan: false
-dish: Kuchen
+
 
 tags:
 - Kuchen
 
-categories: Kuchen
+category: Kuchen
 
 ingredients:
 - 5 Eier

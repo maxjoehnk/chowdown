@@ -1,12 +1,12 @@
 ---
 layout: recipe
 title: Gnocchi-Spinatauflauf
-dish: Hauptspeisen
+
 
 tags:
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - Knoblauch

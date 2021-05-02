@@ -2,14 +2,14 @@
 layout: recipe
 title: Schokokuchen mit Kirsche
 vegan: false
-dish: Kuchen
+
 
 image: schokokuchen-mit-kirsche.jpg
 
 tags:
 - Kuchen
 
-categories: Kuchen
+category: Kuchen
 
 ingredients:
 - 300 g Kuvertüre, zartbitter, nach Wunsch auch Vollmilch

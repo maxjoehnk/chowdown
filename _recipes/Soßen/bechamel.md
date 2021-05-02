@@ -2,13 +2,13 @@
 layout: recipe
 title: Béchamel Soße
 vegan: true
-dish: Soßen
+
 
 tags:
 - Vegan
 - Soße
 
-categories: Soßen
+category: Soßen
 
 ingredients:
 - 5 EL Margarine

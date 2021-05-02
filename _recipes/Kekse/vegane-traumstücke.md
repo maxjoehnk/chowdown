@@ -2,13 +2,13 @@
 layout: recipe
 title: "Vegane Traumstücke"
 vegan: true
-dish: Kekse
+
 
 tags:
 - Vegan
 - Kekse
 
-categories: Kekse
+category: Kekse
 
 ingredients:
 - 400g helles Mehl

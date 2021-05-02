@@ -2,13 +2,13 @@
 layout: recipe
 title: Gnocci in Kräutersauce
 vegan: true
-dish: Hauptspeisen
+
 
 tags:
 - Vegan
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - 2 Knoblauchzehen

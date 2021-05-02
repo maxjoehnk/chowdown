@@ -2,13 +2,13 @@
 layout: recipe
 title: "Vegane Schokokekse"
 vegan: true
-dish: Kekse
+
 
 tags:
 - Vegan
 - Kekse
 
-categories: Kekse
+category: Kekse
 
 ingredients:
 - 70g Zucker

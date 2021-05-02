@@ -2,7 +2,7 @@
 layout: recipe
 title: "Speculoos"
 vegan: true
-dish: Kekse
+
 
 image: speculoos.jpg
 
@@ -10,7 +10,7 @@ tags:
 - Vegan
 - Kekse
 
-categories: Kekse
+category: Kekse
 
 ingredients:
 # Spekulatiusgewürz

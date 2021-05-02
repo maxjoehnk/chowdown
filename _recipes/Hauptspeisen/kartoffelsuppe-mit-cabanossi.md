@@ -2,12 +2,12 @@
 layout: recipe
 title: Kartoffelsuppe mit Cabanossi
 vegan: false
-dish: Hauptspeisen
+
 
 tags:
 - Hauptspeise
 
-categories: Hauptspeisen
+category: Hauptspeisen
 
 ingredients:
 - Speck
