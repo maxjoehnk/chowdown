@@ -47,15 +47,18 @@ collections:
         widget: image
         allow_multiple: false
         media_folder: /images
+        required: false
       - label: Category
         name: category
         widget: string
       - label: Tags
         name: tags
         widget: list
+        required: false
       - label: Servings
         name: servings
         widget: number
+        required: false
       - label: Dauer
         name: durations
         widget: object
@@ -63,18 +66,23 @@ collections:
           - label: Arbeitszeit
             name: prepTime
             widget: string
+            required: false
           - label: Backzeit
             name: bakeTime
             widget: string
+            required: false
           - label: Kochzeit
             name: cookTime
             widget: string
+            required: false
           - label: Ruhezeit
             name: restTime
             widget: string
+            required: false
           - label: Gesamtzeit
             name: totalTime
             widget: string
+            required: false
       - label: Ingredients
         name: ingredients
         widget: list
@@ -107,4 +115,5 @@ collections:
       - label: Source
         name: source
         widget: string
+        required: false
 
