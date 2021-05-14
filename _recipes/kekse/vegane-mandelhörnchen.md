@@ -4,7 +4,7 @@ title: "Einfache Mandelhörnchen (Vegan + Glutenfrei)"
 vegan: true
 
 
-image: vegane-mandelhörnchen.webp
+image: /images/vegane-mandelhörnchen.webp
 
 tags:
 - Dessert

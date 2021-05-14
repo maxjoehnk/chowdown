@@ -3,8 +3,7 @@ layout: recipe
 title: "Kürbisbrot"
 vegan: true
 
-
-image: kuerbisbrot.jpg
+image: /images/kuerbisbrot.jpg
 
 tags:
 - Vegan

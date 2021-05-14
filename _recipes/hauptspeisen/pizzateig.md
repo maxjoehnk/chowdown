@@ -3,7 +3,7 @@ layout: recipe
 title: Pizzateig
 vegan: true
 
-image: pizzateig.jpg
+image: /images/pizzateig.jpg
 
 tags:
 - Vegan

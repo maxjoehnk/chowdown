@@ -16,7 +16,7 @@ layout: default
                 {% for post in dish.items %}
                 <a class="recipe" href="{{ post.url | prepend: site.baseurl }}">
                     <div class="recipe-image"
-                         {% if post.image %} style="background-image: url({{site.baseurl}}/images/{{ post.image | pop }}); filter: none" {% endif %}></div>
+                         {% if post.image %} style="background-image: url({{ post.image | pop }}); filter: none" {% endif %}></div>
                     <div class="recipe-title">
                         <h3 class="recipe-name">{{ post.title }}</h3>
                     </div>

@@ -4,7 +4,7 @@ title: "Speculoos"
 vegan: true
 
 
-image: speculoos.jpg
+image: /images/speculoos.jpg
 
 tags:
 - Vegan

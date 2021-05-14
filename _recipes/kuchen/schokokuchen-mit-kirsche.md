@@ -4,7 +4,7 @@ title: Schokokuchen mit Kirsche
 vegan: false
 
 
-image: schokokuchen-mit-kirsche.jpg
+image: /images/schokokuchen-mit-kirsche.jpg
 
 tags:
 - Kuchen

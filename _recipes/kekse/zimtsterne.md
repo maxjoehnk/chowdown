@@ -4,7 +4,7 @@ title: "Zimtsterne"
 vegan: true
 
 
-image: zimtsterne.jpg
+image: /images/zimtsterne.jpg
 
 tags:
 - Vegan

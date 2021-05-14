@@ -3,7 +3,6 @@ layout: recipe
 title: "Brötchen"
 vegan: true
 
-
 tags:
 - Vegan
 - Brötchen

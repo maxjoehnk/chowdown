@@ -4,7 +4,7 @@ title: "Rharbarber Streuselkuchen"
 vegan: true
 
 
-image: rharbarber-streuselkuchen.jpg
+image: /images/rharbarber-streuselkuchen.jpg
 
 tags:
 - Vegan

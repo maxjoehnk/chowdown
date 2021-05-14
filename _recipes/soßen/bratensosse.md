@@ -4,7 +4,7 @@ title: Bratensoße
 vegan: true
 
 
-image: bratensoße.jpg
+image: /images/bratensoße.jpg
 
 tags:
 - Vegan

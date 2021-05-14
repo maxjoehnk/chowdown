@@ -4,7 +4,7 @@ title: "Vegane Chocolate Chip Cookies mit Mandel- und Dinkelmehl"
 vegan: true
 
 
-image: vegane-chocolate-chip-cookies-mit-mandel-und-dinkelmehl.jpg
+image: /images/vegane-chocolate-chip-cookies-mit-mandel-und-dinkelmehl.jpg
 
 category: Kekse
 

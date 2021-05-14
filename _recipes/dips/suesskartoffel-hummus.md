@@ -4,7 +4,7 @@ title: "Süßkartoffel Hummus"
 vegan: true
 
 
-image: suesskartoffel-hummus.jpg
+image: /images/suesskartoffel-hummus.jpg
 
 tags:
 - Vegan

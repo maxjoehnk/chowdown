@@ -4,7 +4,7 @@ title: Gefüllte Maxi-Tortelli in Spinatrahm
 vegan: false
 
 
-image: gefuellte-maxi-tortelli-in-spinatrahm.jpg
+image: /images/gefuellte-maxi-tortelli-in-spinatrahm.jpg
 
 category: Hauptspeisen
 

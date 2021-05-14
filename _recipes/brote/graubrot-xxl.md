@@ -2,8 +2,7 @@
 layout: recipe
 title: "Graubrot XXL"
 vegan: true
-image: graubrot-xxl.jpg
-
+image: /images/graubrot-xxl.jpg
 
 tags:
 - Vegan

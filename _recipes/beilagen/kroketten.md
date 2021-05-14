@@ -2,7 +2,7 @@
 layout: recipe
 title: Kroketten
 vegan: false
-image: kroketten.jpg
+image: /images/kroketten.jpg
 
 
 tags:

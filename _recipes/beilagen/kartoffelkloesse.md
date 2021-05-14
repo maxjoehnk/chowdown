@@ -2,7 +2,7 @@
 layout: recipe
 title: "Kartoffelklöße"
 vegan: true
-image: kartoffelkloesse.jpg
+image: /images/kartoffelkloesse.jpg
 
 tags:
 - Vegan

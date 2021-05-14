@@ -4,7 +4,7 @@ title: "Vegane Chocolate Chip Cookies"
 vegan: true
 
 
-image: cookies.jpg
+image: /images/cookies.jpg
 
 tags:
 - Vegan

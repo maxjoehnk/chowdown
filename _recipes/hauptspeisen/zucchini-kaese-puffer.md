@@ -4,7 +4,7 @@ title: Zucchini-Käse-Puffer
 vegan: false
 
 
-image: zucchini-kaese-puffer.jpg
+image: /images/zucchini-kaese-puffer.jpg
 
 category: Hauptspeisen
 
