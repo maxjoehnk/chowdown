@@ -17,6 +17,7 @@ layout: default
                 <a class="recipe" href="{{ post.url | prepend: site.baseurl }}">
                     <div class="recipe-image"
                          {% if post.image %} style="background-image: url({{ post.image | pop }}); filter: none" {% endif %}></div>
+                    {% if post.vegan %}<span class="recipe__vegan-marker">Vegan</span>{% endif %}
                     <div class="recipe-title">
                         <h3 class="recipe-name">{{ post.title }}</h3>
                     </div>

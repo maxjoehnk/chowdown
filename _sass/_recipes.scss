@@ -27,6 +27,17 @@
   }
 }
 
+.recipe__vegan-marker {
+  background: rgb(76,175,80);
+  color: white;
+  position: absolute;
+  padding: 4px;
+  top: 0;
+  right: 8px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
 .recipe-image {
   transition: .2s ease all;
   opacity: 1;
