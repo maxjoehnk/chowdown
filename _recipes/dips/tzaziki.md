@@ -1,27 +1,20 @@
 ---
 layout: recipe
-title: "Tzaziki"
-vegan: false
-
-
-tags:
-- Dip
-
+title: Tzaziki
+vegan: true
 category: Dips
-
+tags: []
 ingredients:
-- 1kg Magerquark
-- 2 Pck Creme Fraiche o. Schmand
-- 2 Pck Naturjoghurt
-- 1 Gurke
-- 1-2 Knollen Knoblauch
-- Knoblauchsalz
-- Zitrone
-- Olivenöl
-
+  - 1kg Veganer Quark (bspw Simply V Frische Genuss)
+  - 2 Pck Creme Vega
+  - 2 Pck Soja Joghurt/Skyr
+  - 1 Gurke
+  - 1-2 Knollen Knoblauch
+  - Knoblauchsalz
+  - Zitrone
+  - Olivenöl
 directions:
-- Die Gurke grob raspeln
-- Knoblauch in kleine Würfel schneiden
-- Alles gut verrühren.
-
+  - Die Gurke grob raspeln
+  - Knoblauch in kleine Würfel schneiden
+  - Alles gut verrühren.
 ---
