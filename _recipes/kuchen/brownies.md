@@ -4,7 +4,7 @@ title: Brownies
 vegan: true
 image: https://biancazapatka.com/wp-content/uploads/2019/05/brownies-recipe-best-fudgy-rich-chocolate-beste-vegane-brownies-rezept-720x1008.jpg
 category: Kuchen
-servings: 6
+servings: 8
 durations:
   bakeTime: 30min
   prepTime: 5min
